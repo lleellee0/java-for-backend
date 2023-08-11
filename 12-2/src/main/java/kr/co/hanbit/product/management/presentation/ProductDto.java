@@ -2,7 +2,7 @@ package kr.co.hanbit.product.management.presentation;
 
 import kr.co.hanbit.product.management.domain.Product;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 public class ProductDto {
     private Long id;

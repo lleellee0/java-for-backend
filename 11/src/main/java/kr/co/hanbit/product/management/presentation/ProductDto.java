@@ -1,6 +1,6 @@
 package kr.co.hanbit.product.management.presentation;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 public class ProductDto {
     private Long id;

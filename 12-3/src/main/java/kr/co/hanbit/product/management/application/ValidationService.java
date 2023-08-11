@@ -3,7 +3,7 @@ package kr.co.hanbit.product.management.application;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.annotation.Validated;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 @Service
 @Validated
