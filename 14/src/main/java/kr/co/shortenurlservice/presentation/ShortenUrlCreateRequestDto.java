@@ -1,6 +1,7 @@
 package kr.co.shortenurlservice.presentation;
 
 import jakarta.validation.constraints.NotNull;
+import org.hibernate.validator.constraints.URL;
 
 public class ShortenUrlCreateRequestDto {
     @NotNull
