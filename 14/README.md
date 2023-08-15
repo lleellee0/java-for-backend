@@ -2,7 +2,7 @@
 단축 URL 서비스 레포지토리
 
 ### 요구사항
-1. URL [bitly](https://bitly.com/) 같은 단축 URL 서비스를 만들어야 합니다.
+1. [bitly](https://bitly.com/) 같은 단축 URL 서비스를 만들어야 합니다.
 2. 단축된 URL의 키(Key)는 8글자로 생성되어야 합니다. '단축된 URL의 키'는 'https://bit.ly/3onGWgK' 에서 경로(Path)에 해당하는 '3onGWgK'를 의미합니다. bitly에서는 7글자의 키를 사용합니다.
 3. 키 생성 알고리즘은 자유롭게 구현하시면 됩니다.
 4. 단축된 URL로 사용자가 요청하면 원래의 URL로 리다이렉트(Redirect)되어야 합니다.
