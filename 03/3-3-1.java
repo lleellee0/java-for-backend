@@ -1,5 +1,15 @@
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
+        List list = new ArrayList<String>();
+
+        list.add("public");
+        list.add("static");
+        list.add("void");
+
         // 익명 클래스 코드
         list.sort(new Comparator<String>() {
             @Override
