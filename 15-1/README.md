@@ -217,7 +217,7 @@
 * 해당 주문상태를 가지는 주문이 아무것도 없다면 빈 배열이 반환되어야 합니다.
 
 요청 메서드 : GET   
-요청 경로 : /orders?state={state)   
+요청 경로 : /orders?state={state}   
 
 #### 조회 성공 (/orders?state=CREATED)   
 요청 바디 없음   
