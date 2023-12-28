@@ -8,6 +8,6 @@ public class Main {
     public static void main(String[] args) {
         Optional<String> str = getSomeString();
 
-        str.ifPresent((string) -> System.out.println(string.toUpperCase()));}
+        str.ifPresent((string) -> System.out.println(string.toUpperCase()));
     }
 }
