@@ -8,5 +8,5 @@
 
 ## 정오표
 
-### p.402
+### p.402 - [issue](https://github.com/lleellee0/java-for-backend/issues/13)
 코드 블록의 **EntityNotFoundException.java** 중 일부 -> **GlobalExceptionHandler.java** 중 일부
