@@ -5,3 +5,8 @@
 
 도서 구입 링크 - https://search.shopping.naver.com/book/catalog/45070745618 <br>
 도서 강의 - https://www.youtube.com/watch?v=Kp5wo7a4eAo&list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv
+
+## 정오표
+
+### p.402
+코드 블록의 **EntityNotFoundException.java** 중 일부 -> **GlobalExceptionHandler.java** 중 일부
